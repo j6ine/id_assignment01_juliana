@@ -3,7 +3,7 @@ overview of your project. essentially, the sales pitch.
 An aesthetically pleasing and attractive website targeted towards Paramore Fans.
 
 ## Design Process
-### Insights about The Design Process
+#### Insights about The Design Process
 
 #### Target Audience
 The site's users are fans and potential fans who wish to learn more about the band's history and the band members, and possibly book them for shows.
