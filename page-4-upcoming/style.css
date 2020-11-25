@@ -1,0 +1,60 @@
+/* same for all pages */
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    background-color: rgb(252, 232, 204);
+    text-align: center;
+    color: #595959;
+}
+
+h1{
+    padding: 10px;
+    color: orange;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+p{
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    color: #595959;
+}
+
+/* for forms */
+form{
+    padding:20px;
+}
+
+input{
+    width: 50%;
+    padding: 15px;
+    margin: 8px;
+    border: white;
+    background-color: rgb(255, 170, 0);
+    color: white;
+  }
+
+input[type="submit"]{
+    margin: 20px;
+    width: 20%;
+    color: #595959;
+}
+
+
+/* classes */
+
+.container{
+    display: flex; 
+    flex-flow: column wrap;
+    justify-content: space-around;
+    align-items: center;
+    flex-basis: 90%;
+}
+
+.item{
+    flex-basis: 90%;
+}
+
+
