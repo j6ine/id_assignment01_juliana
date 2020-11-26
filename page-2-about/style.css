@@ -29,17 +29,14 @@ h2{
 }
 
 /* classes */ 
-.container{
-    display: flex; 
-    flex-flow: column wrap;
-    justify-content: space-evenly;
-    align-items: center;
+.member-name{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(66, 0, 128);
+    /* rgb(158, 95, 218) */
+    font-size: 18px;
 }
 
-.item{
-    flex-basis: 90%;
-}
-
+/* flex boxes */
 .container-member{
     display: flex; 
     flex-flow: column wrap;
@@ -66,26 +63,27 @@ h2{
 @media (min-width: 600px){
     .container, .container-member{
         flex-flow: row wrap;
-        flex-basis: 50%
+        flex-basis: 70%
     }
-
+  
     .item, .item-member{
         flex-flow: row wrap;
-        flex-basis: 50%
+        flex-basis: 70%
     }
-}
-
-/* media queries - large desktop */
-@media (min-width: 800px){
+  }
+  
+  /* media queries - large desktop */
+  @media (min-width: 800px){
     .container, .container-member{
         flex-flow: row wrap;
-        flex-basis: 50%
+        flex-basis: 80%
     }
-
+  
     .item, .item-member{
         flex-flow: row wrap;
-        flex-basis: 50%
+        flex-basis: 80%
     }
-}
-
-
+  }
+  
+  
+  
