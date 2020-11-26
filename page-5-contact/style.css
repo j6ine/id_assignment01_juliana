@@ -42,8 +42,14 @@ input[type="submit"]{
     color: #595959;
 }
 
+/* t/c hidden, click to show */
+<div>
+<input type="checkbox" id="terms">
+<p><label for="terms">T/C</label></p>
+<p>She said for $300 she'll do it.</p>
+</div>
 
-/* classes */
+/* flex boxes */
 .container{
     display: flex; 
     flex-flow: column wrap;
@@ -54,5 +60,6 @@ input[type="submit"]{
 .item{
     flex-basis: 90%;
 }
+
 
 
