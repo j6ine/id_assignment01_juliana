@@ -18,7 +18,6 @@ history and the band members, and possibly book them for shows.
 for the Newsletter. It is also accessible in "Upcoming".
 * To know about history of band, they can go to "About"
 * To know about band members, they can go to "About"
-* To know about history of band, they can go to "About"
 
 #### Adobe XD Wireframe
 <address>
