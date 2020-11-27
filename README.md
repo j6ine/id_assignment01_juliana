@@ -26,7 +26,11 @@ for the Newsletter. It is also accessible in "Upcoming".
 
 ## Features
 #### Existing Features
-* Feature 1 - allows users X to achieve Y, by having them fill out Z
+In page 4 and 5
+* Newsletter - Allows users to get updates about the Band. Included a terms & conditions as well.
+
+In page 5
+* Contact form - Allows users to enquire here for shows and gigs to the manager.
 
 #### Features to Implement in the future
 In general 
@@ -36,6 +40,7 @@ For Page 3
 * Preview button for the songs in the album - After pressed, it shows the list of songs in the album
 and listen to a preview.
 * Review button for the products in the Store - Add a "show reviews" and be able to add a review as well.
+
 
 ## Technologies used
 * HTML
@@ -57,6 +62,9 @@ Minimum width of 600px and Minimum width of 800px.
 In page 3
 * In some screen sizes, the "Add to Cart" button is cut off.
 
+In page 5
+* In some screen sizes, the "Submit" and "Subscribe" button is cut off.
+
 ## Credits
 #### Content
 * https://en.wikipedia.org/wiki/Paramore
@@ -72,4 +80,15 @@ In page 3
 #### Acknoledgements
 * https://css-tricks.com/the-checkbox-hack/
 * https://flexboxfroggy.com/
+
+## Github repository links
+- has the earlier commits
+* https://j6ine.github.io/id_assignment01_juliana 
+
+- has commits closer to submission date
+* https://j6ine.github.io/id_asg_pg1/
+* https://j6ine.github.io/id_asg_pg2/
+* https://j6ine.github.io/id_asg_pg3/
+* https://j6ine.github.io/id_asg_pg4/
+* https://j6ine.github.io/id_asg_pg5/
 
