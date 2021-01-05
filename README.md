@@ -20,8 +20,7 @@ for the Newsletter. It is also accessible in "Upcoming".
 * To know about band members, they can go to "About"
 
 #### Adobe XD Wireframe
-<address>
-
+In the network folder
 
 ## Features
 #### Existing Features
@@ -66,6 +65,7 @@ In page 5
 
 ## Credits
 #### Content
+Information about the band
 * https://en.wikipedia.org/wiki/Paramore
 * https://en.wikipedia.org/wiki/Hayley_Williams
 * https://en.wikipedia.org/wiki/Taylor_York
@@ -74,17 +74,16 @@ In page 5
 * https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF
 
 #### Media
-<address>
-
+Has a lot. Full list in a word doc in network folder.
 #### Acknoledgements
 * https://css-tricks.com/the-checkbox-hack/
 * https://flexboxfroggy.com/
 
 ## Github repository links
-- has the earlier commits
+- repository with earlier commits before deciding to put each page to 1 repository.
 * https://j6ine.github.io/id_assignment01_juliana 
 
-- has commits closer to submission date
+- repositories for each page. (did this part wrongly)
 * https://j6ine.github.io/id_asg_pg1/
 * https://j6ine.github.io/id_asg_pg2/
 * https://j6ine.github.io/id_asg_pg3/
