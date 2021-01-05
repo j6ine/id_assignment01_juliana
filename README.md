@@ -20,10 +20,12 @@ for the Newsletter. It is also accessible in "Upcoming".
 * To know about band members, they can go to "About"
 
 #### Adobe XD Wireframe
-In the network folder
+In the network folder.
 
 ## Features
 #### Existing Features
+* Navigation Bar - Allows user to navigate through the website easier.
+
 In page 4 and 5
 * Newsletter - Allows users to get updates about the Band. Included a terms & conditions as well.
 
@@ -76,14 +78,15 @@ Information about the band
 #### Media
 Has a lot. Full list in a word doc in network folder.
 #### Acknoledgements
-* https://css-tricks.com/the-checkbox-hack/
-* https://flexboxfroggy.com/
+* Flexbox https://css-tricks.com/the-checkbox-hack/
+* Flexbox https://flexboxfroggy.com/
+* Nav Bar https://www.w3schools.com/
 
 ## Github repository links
-- repository with earlier commits before deciding to put each page to 1 repository.
+Repository with earlier commits before deciding to put each page to 1 repository.
 * https://j6ine.github.io/id_assignment01_juliana 
 
-- repositories for each page. (did this part wrongly)
+Repositories for each page. (did this part wrongly)
 * https://j6ine.github.io/id_asg_pg1/
 * https://j6ine.github.io/id_asg_pg2/
 * https://j6ine.github.io/id_asg_pg3/
